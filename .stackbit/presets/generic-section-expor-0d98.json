@@ -1,0 +1,80 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "expor",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "tela incial"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "A team that works closely together",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "Section subtitle",
+                "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "See open positions",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "media": null,
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-neutral-fg-dark",
+                "backgroundImage": {
+                    "$$type": "BackgroundImage",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/abstract-background.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "altText of the image",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "no-repeat",
+                    "opacity": 100
+                },
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-40",
+                            "pl-4",
+                            "pb-40",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "flexDirection": "row-reverse",
+                        "justifyContent": "center"
+                    },
+                    "text": {
+                        "textAlign": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-expor-0d98.png"
+        }
+    ]
+}
