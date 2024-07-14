@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "Bem-Vindo\_ Portfólio"
+      text: Letícia V Caçador
       color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
