@@ -159,7 +159,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Ferramentas
+  - subtitle: Softwares
     images:
       - url: /images/Novo Projeto (1).png
         altText: Figma logo
