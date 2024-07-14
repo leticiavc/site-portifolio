@@ -191,10 +191,15 @@ sections:
       habilidades. Iniciei minha jornada com uma graduação em Design Digital,
       onde desenvolvi competências avançadas em ferramentas como Figma,
       Photoshop e Ilustrador, fundamentais para criar interfaces intuitivas e
-      visualmente impactantes para os usuários  Atualmente, estou expandindo
-      meus horizontes acadêmicos com uma segunda graduação em Análise e
-      Desenvolvimento de Sistemas, o que me proporciona ter um bom entendimento
-      em programação e a capacidade de integrar o design com tecnologias atuais.
+      visualmente impactantes para os usuários  
+
+
+      Atualmente, estou expandindo meus horizontes acadêmicos com uma segunda
+      graduação em Análise e Desenvolvimento de Sistemas, o que me proporciona
+      ter um bom entendimento em programação e a capacidade de integrar o design
+      com tecnologias atuais. 
+
+
       Minha experiência profissional como Web Designer tem sido gratificante,
       permitindo-me aplicar meus conhecimentos em UI/UX Design para desenvolver
       projetos que impacta diretamente os usuários. Além disso, venho
