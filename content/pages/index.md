@@ -173,7 +173,7 @@ sections:
       - url: /images/Novo Projeto (2).png
         altText: Photoshop logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/Novo Projeto (3).png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
