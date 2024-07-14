@@ -347,7 +347,7 @@ sections:
           faz. Muito criativa, e sempre disposta a fazer o seu melhor. Ágil,
           dedicada e eficiênte nas entregas.”
         tagline: Em 15 de setembro de 2023
-        subtitle: 'Maria Walters, Company'
+        subtitle: Karolina Sobral
         text: ''
         image:
           url: /images/person-placeholder-light.png
