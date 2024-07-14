@@ -274,6 +274,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: Direto do Linkedin
     items:
       - title: >-
