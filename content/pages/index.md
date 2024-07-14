@@ -236,7 +236,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/fundo-branco-tecnologia_23-2148399724.avif
+      url: /images/images.jfif
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
