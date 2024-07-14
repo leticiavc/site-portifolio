@@ -42,6 +42,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+          borderWidth: 0
   - type: FeaturedItemsSection
     title:
       text: Experiência Acadêmica
