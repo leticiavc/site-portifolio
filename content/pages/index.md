@@ -161,7 +161,7 @@ sections:
         textAlign: center
   - subtitle: Ferramentas
     images:
-      - url: /images/figma.png
+      - url: /images/Novo Projeto (1).png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
