@@ -249,7 +249,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Novo Projeto (16).png
+      url: /images/Novo Projeto (17).png
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
