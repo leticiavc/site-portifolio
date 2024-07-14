@@ -22,11 +22,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    media:
-      url: /images/WhatsApp Image 2024-07-14 at 16.44.53.jpeg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: This is a badge
       color: text-light
