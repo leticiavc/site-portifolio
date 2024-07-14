@@ -164,7 +164,7 @@ sections:
       - url: /images/Novo Projeto (1).png
         altText: Figma logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/Novo Projeto (6).png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
