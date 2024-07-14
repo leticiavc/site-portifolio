@@ -185,12 +185,30 @@ sections:
         self:
           textAlign: center
     subtitle: Um pouco sobre mim
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      Olá! Sou uma jovem apaixonada por design e tecnologia, com uma trajetória
+      acadêmica que reflete minha busca constante por conhecimento e novas
+      habilidades. Iniciei minha jornada com uma graduação em Design Digital,
+      onde desenvolvi competências avançadas em ferramentas como Figma,
+      Photoshop e Ilustrador, fundamentais para criar interfaces intuitivas e
+      visualmente impactantes para os usuários
+
+
+      Atualmente, estou expandindo meus horizontes acadêmicos com uma segunda
+      graduação em Análise e Desenvolvimento de Sistemas, o que me proporciona
+      ter um bom entendimento em programação e a capacidade de integrar o design
+      com tecnologias atuais.
+
+
+      Minha experiência profissional como Web Designer tem sido gratificante,
+      permitindo-me aplicar meus conhecimentos em UI/UX Design para desenvolver
+      projetos que impacta diretamente os usuários. Além disso, venho
+      desenvolvendo habilidades cada vez mais para acrescentar as interfaces
+      visualmente como habilidades em Blender para criação de elementos 3D e
+      habilidades  em edição de vídeo e efeitos especiais.
+
+
+
     actions:
       - type: Button
         label: See open positions
