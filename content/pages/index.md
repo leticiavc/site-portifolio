@@ -345,7 +345,7 @@ sections:
       text: Entre em Contato
       color: text-dark
       type: TitleBlock
-    subtitle: 'Deixe sua mensagem, logo entrarei em contato'
+    subtitle: 'Deixe sua mensagem, em breve entrarei em contato'
     text: ''
     media:
       fields:
