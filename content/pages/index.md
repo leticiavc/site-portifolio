@@ -162,7 +162,7 @@ sections:
   - subtitle: Ferramentas
     images:
       - url: /images/Novo Projeto (1).png
-        altText: Empathy logo
+        altText: Figma logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
