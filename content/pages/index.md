@@ -39,7 +39,7 @@ sections:
           - pr-16
     media:
       type: ImageBlock
-      url: /images/Novo Projeto (14).png
+      url: /images/Novo Projeto (15).png
       altText: Image alt text placeholder
       elementId: ''
       styles:
