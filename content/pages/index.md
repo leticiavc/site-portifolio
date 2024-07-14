@@ -177,7 +177,7 @@ sections:
         altText: After Effects logo
         type: ImageBlock
       - url: /images/Novo Projeto (4).png
-        altText: Sanity logo
+        altText: Premiere Pro logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
