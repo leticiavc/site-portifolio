@@ -273,7 +273,7 @@ sections:
     title:
       type: TitleBlock
       text: Recomendações
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
