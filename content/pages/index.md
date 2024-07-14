@@ -83,10 +83,8 @@ sections:
               borderRadius: x-large
       - title: Centro Universitário Senac
         subtitle: 2016-2019
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Bacharelado em Design - Linha de fomação específica em Design Digital
         image:
           url: /images/Novo Projeto (8).png
           altText: Featured icon two
