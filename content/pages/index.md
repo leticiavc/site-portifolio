@@ -185,26 +185,24 @@ sections:
       type: TitleBlock
     subtitle: Um pouco sobre mim
     text: >+
-      Olá! Sou uma jovem apaixonada por design e tecnologia, com uma trajetória
-      acadêmica que reflete minha busca constante por conhecimento e novas
-      habilidades. Iniciei minha jornada com uma graduação em Design Digital,
-      onde desenvolvi competências avançadas em ferramentas como Figma,
-      Photoshop e Ilustrador, fundamentais para criar interfaces intuitivas e
-      visualmente impactantes para os usuários 
+      \<div style="text-align: center">Olá! Sou uma jovem apaixonada por design
+      e tecnologia, com uma trajetória acadêmica que reflete minha busca
+      constante por conhecimento e novas habilidades. Iniciei minha jornada com
+      uma graduação em Design Digital, onde desenvolvi competências avançadas em
+      ferramentas como Figma, Photoshop e Ilustrador, fundamentais para criar
+      interfaces intuitivas e visualmente impactantes para os usuários\</div>
 
 
-      Atualmente, estou expandindo meus horizontes acadêmicos com uma segunda
-      graduação em Análise e Desenvolvimento de Sistemas, o que me proporciona
-      ter um bom entendimento em programação e a capacidade de integrar o design
-      com tecnologias atuais. 
-
-
-      Minha experiência profissional como Web Designer tem sido gratificante,
-      permitindo-me aplicar meus conhecimentos em UI/UX Design para desenvolver
-      projetos que impacta diretamente os usuários. Além disso, venho
-      desenvolvendo habilidades cada vez mais para acrescentar as interfaces
-      visualmente como habilidades em Blender para criação de elementos 3D e
-      habilidades  em edição de vídeo e efeitos especiais.
+      \<div style="text-align: center">Atualmente, estou expandindo meus
+      horizontes acadêmicos com uma segunda graduação em Análise e
+      Desenvolvimento de Sistemas, o que me proporciona ter um bom entendimento
+      em programação e a capacidade de integrar o design com tecnologias
+      atuais.Minha experiência profissional como Web Designer tem sido
+      gratificante, permitindo-me aplicar meus conhecimentos em UI/UX Design
+      para desenvolver projetos que impacta diretamente os usuários. Além disso,
+      venho desenvolvendo habilidades cada vez mais para acrescentar as
+      interfaces visualmente como habilidades em Blender para criação de
+      elementos 3D e habilidades  em edição de vídeo e efeitos especiais.\</div>
 
     badge:
       label: ''
