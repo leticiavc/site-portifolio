@@ -161,7 +161,7 @@ sections:
         textAlign: center
   - subtitle: Ferramentas
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/1667px-Figma-logo.svg.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
