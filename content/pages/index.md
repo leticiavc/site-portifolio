@@ -7,6 +7,9 @@ sections:
       text: Letícia V Caçador
       color: text-primary
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: UX/UI Designer | Web Designer
     text: ''
     actions:
