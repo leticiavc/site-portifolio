@@ -229,15 +229,6 @@ sections:
       subtitle:
         textAlign: center
         fontStyle: italic
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: >-
-        /images/camera-power-bank-cactus-plant-diary-tea-cup-keyboard-white-desk.jpg
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
