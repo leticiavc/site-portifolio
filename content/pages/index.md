@@ -49,7 +49,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Experiência Acadêmica
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
