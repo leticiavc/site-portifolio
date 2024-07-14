@@ -55,10 +55,8 @@ sections:
       - type: FeaturedItem
         title: UniFECAF
         subtitle: 2023-2025
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Análise e Desenvolvimento de Sistemas
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
