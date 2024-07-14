@@ -207,7 +207,7 @@ sections:
       habilidades  em edição de vídeo e efeitos especiais.
     actions:
       - type: Button
-        label: See open positions
+        label: Ver Cursos
         url: /
         icon: arrowRight
         iconPosition: right
