@@ -16,7 +16,7 @@ sections:
       - label: Baixar Currículo
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
