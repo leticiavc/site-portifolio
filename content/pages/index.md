@@ -216,7 +216,7 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: /images/1555348-cinza-branco-geometrico-abstrato-fundo-vetor.jpg
+      url: /images/gradient-white-monochrome-background_23-2149017048.avif
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
