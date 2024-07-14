@@ -196,12 +196,15 @@ sections:
       Atualmente, estou expandindo meus horizontes acadêmicos com uma segunda
       graduação em Análise e Desenvolvimento de Sistemas, o que me proporciona
       ter um bom entendimento em programação e a capacidade de integrar o design
-      com tecnologias atuais.Minha experiência profissional como Web Designer
-      tem sido gratificante, permitindo-me aplicar meus conhecimentos em UI/UX
-      Design para desenvolver projetos que impacta diretamente os usuários. Além
-      disso, venho desenvolvendo habilidades cada vez mais para acrescentar as
-      interfaces visualmente como habilidades em Blender para criação de
-      elementos 3D e habilidades  em edição de vídeo e efeitos especiais.
+      com tecnologias atuais.
+
+
+      Minha experiência profissional como Web Designer tem sido gratificante,
+      permitindo-me aplicar meus conhecimentos em UI/UX Design para desenvolver
+      projetos que impacta diretamente os usuários. Além disso, venho
+      desenvolvendo habilidades cada vez mais para acrescentar as interfaces
+      visualmente como habilidades em Blender para criação de elementos 3D e
+      habilidades  em edição de vídeo e efeitos especiais.
     badge:
       label: ''
       color: text-primary
