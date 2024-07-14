@@ -236,7 +236,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Novo Projeto (12).png
+      url: >-
+        /images/12773522-modelo-de-fundo-branco-moderno-de-tecnologia-gratis-vetor.jpg
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
