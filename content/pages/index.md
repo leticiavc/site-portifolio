@@ -243,7 +243,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Projetos
       color: text-dark
   - type: CarouselSection
     title:
