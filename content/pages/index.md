@@ -217,7 +217,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       url: >-
-        /images/stock-vector-abstract-embossed-hexagon-honeycomb-white-background-light-and-shadow-vector-1073149928-transformed.jpeg
+        /images/stock-vector-abstract-embossed-hexagon-honeycomb-white-background-light-and-shadow-vector-1073149928-transformed.png
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
