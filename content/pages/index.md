@@ -236,8 +236,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: >-
-        /images/fundo-de-tecnologia-digital-com-moldura-hexagonal-em-tom-branco_53876-117507.avif
+      url: /images/images (2).jfif
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
