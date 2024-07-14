@@ -229,15 +229,6 @@ sections:
       subtitle:
         textAlign: center
         fontStyle: italic
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: >-
-        /images/12773522-modelo-de-fundo-branco-moderno-de-tecnologia-gratis-vetor.jpg
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
