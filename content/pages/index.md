@@ -345,7 +345,7 @@ sections:
       text: Entre em Contato
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: 'Deixe sua mensagem, logo entrarei em contato'
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
