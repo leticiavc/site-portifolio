@@ -214,15 +214,6 @@ sections:
         style: primary
         showIcon: true
     colors: bg-neutral-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: >-
-        /images/stock-vector-abstract-embossed-hexagon-honeycomb-white-background-light-and-shadow-vector-1073149928-transformed.png
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
     styles:
       self:
         padding:
