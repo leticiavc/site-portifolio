@@ -378,7 +378,7 @@ sections:
           melhor maneira. As suas entregas são rápidas e feitas com muita
           eficiência."
         tagline: Em 14 de setembro de 2023
-        subtitle: ''
+        subtitle: 'Karolina Sobral, Proxy Midia'
         text: ''
         image:
           url: /images/person-placeholder-light.png
