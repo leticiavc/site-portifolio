@@ -216,7 +216,7 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: /images/abstract-background.svg
+      url: /images/abstract-technological-background_23-2148897676.avif
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
