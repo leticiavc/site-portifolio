@@ -304,7 +304,7 @@ sections:
         subtitle: 'Karolina Sobral, Proxy Midia'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: John Doe
           styles:
             self:
