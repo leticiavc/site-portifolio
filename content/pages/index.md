@@ -171,7 +171,7 @@ sections:
         altText: Illustrator logo
         type: ImageBlock
       - url: /images/Novo Projeto (2).png
-        altText: Telus logo
+        altText: Photoshop logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
