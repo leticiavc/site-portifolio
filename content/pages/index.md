@@ -180,7 +180,7 @@ sections:
     title:
       type: TitleBlock
       text: Letícia Vieira Caçador
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
