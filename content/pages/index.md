@@ -319,6 +319,9 @@ sections:
       type: TitleBlock
       text: Recomendações
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: What our customers say about us
     items:
       - title: >-
