@@ -180,7 +180,7 @@ sections:
         altText: Premiere Pro logo
         type: ImageBlock
       - url: /images/Novo Projeto (7).png
-        altText: Rangle logo
+        altText: Procreate logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
