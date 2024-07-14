@@ -178,6 +178,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
   - type: GenericSection
     title:
       type: TitleBlock
