@@ -237,7 +237,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: >-
-        /images/4296048-concept-abstract-hexagon-background-technology-on-white-background-embossed-hexagon-honeycomb-light-and-shadow-vector-illustration-vetor.jpg
+        /images/12773522-modelo-de-fundo-branco-moderno-de-tecnologia-gratis-vetor.jpg
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
