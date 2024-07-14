@@ -165,7 +165,7 @@ sections:
         altText: Figma logo
         type: ImageBlock
       - url: /images/Novo Projeto (6).png
-        altText: Wellster logo
+        altText: Blender logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
