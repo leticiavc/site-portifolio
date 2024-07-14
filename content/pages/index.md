@@ -216,6 +216,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+      text:
+        textAlign: center
     type: GenericSection
   - posts:
       - content/pages/blog/case-study-1.md
