@@ -213,7 +213,7 @@ sections:
         iconPosition: right
         style: primary
         showIcon: true
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
