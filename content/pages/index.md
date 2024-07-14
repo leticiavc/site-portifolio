@@ -105,10 +105,8 @@ sections:
         type: FeaturedItem
       - title: Senac
         subtitle: 2014-2015
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Curso Técnico - **Técnico em Multimídia**
         image:
           url: /images/Novo Projeto (9).png
           altText: Featured icon three
