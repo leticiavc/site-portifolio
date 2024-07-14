@@ -103,7 +103,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Centro Universitário Senac
+      - title: Senac
         subtitle: 2014-2015
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
