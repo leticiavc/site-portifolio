@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: b
+      label: Bem Vindo
       color: text-light
       type: Badge
     elementId: ''
