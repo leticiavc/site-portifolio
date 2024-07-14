@@ -87,7 +87,7 @@ sections:
           Bacharelado em Design - Linha de fomação específica em **Design
           Digital**
         image:
-          url: /images/Novo Projeto (8).png
+          url: /images/Novo Projeto (9).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
