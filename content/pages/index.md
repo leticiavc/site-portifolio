@@ -225,7 +225,7 @@ sections:
         flexDirection: row-reverse
         justifyContent: center
       text:
-        textAlign: center
+        textAlign: left
       subtitle:
         textAlign: center
         fontStyle: italic
