@@ -168,7 +168,7 @@ sections:
         altText: Blender logo
         type: ImageBlock
       - url: /images/Novo Projeto (5).png
-        altText: Vise logo
+        altText: Illustrator logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
