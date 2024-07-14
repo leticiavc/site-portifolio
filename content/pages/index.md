@@ -185,19 +185,16 @@ sections:
         self:
           textAlign: center
     subtitle: Um pouco sobre mim
-    text: >+
+    text: >
       Olá! Sou uma jovem apaixonada por design e tecnologia, com uma trajetória
       acadêmica que reflete minha busca constante por conhecimento e novas
       habilidades. Iniciei minha jornada com uma graduação em Design Digital,
       onde desenvolvi competências avançadas em ferramentas como Figma,
       Photoshop e Ilustrador, fundamentais para criar interfaces intuitivas e
-      visualmente impactantes para os usuários
-
-
-      Atualmente, estou expandindo meus horizontes acadêmicos com uma segunda
-      graduação em Análise e Desenvolvimento de Sistemas, o que me proporciona
-      ter um bom entendimento em programação e a capacidade de integrar o design
-      com tecnologias atuais.
+      visualmente impactantes para os usuários  Atualmente, estou expandindo
+      meus horizontes acadêmicos com uma segunda graduação em Análise e
+      Desenvolvimento de Sistemas, o que me proporciona ter um bom entendimento
+      em programação e a capacidade de integrar o design com tecnologias atuais.
 
 
       Minha experiência profissional como Web Designer tem sido gratificante,
@@ -206,9 +203,6 @@ sections:
       desenvolvendo habilidades cada vez mais para acrescentar as interfaces
       visualmente como habilidades em Blender para criação de elementos 3D e
       habilidades  em edição de vídeo e efeitos especiais.
-
-
-
     actions:
       - type: Button
         label: See open positions
