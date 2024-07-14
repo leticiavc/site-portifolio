@@ -216,7 +216,8 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: /images/abstract-technological-background_23-2148897676.avif
+      url: >-
+        /images/fundo-abstrato-moderno-com-gradiente-geometrico-branco-e-cinza_120819-454.avif
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
