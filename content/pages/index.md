@@ -184,6 +184,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: Um pouco sobre mim
     text: >
       Olá! Sou uma jovem apaixonada por design e tecnologia, com uma trajetória
