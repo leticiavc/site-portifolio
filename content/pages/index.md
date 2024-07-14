@@ -346,7 +346,7 @@ sections:
           “A Letícia é uma excelente profissional. Sempre dedicada em tudo que
           faz. Muito criativa, e sempre disposta a fazer o seu melhor. Ágil,
           dedicada e eficiênte nas entregas.”
-        tagline: Testimonial 1
+        tagline: Em 15 de setembro de 2023
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
