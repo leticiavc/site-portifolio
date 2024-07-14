@@ -211,7 +211,7 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         showIcon: true
     colors: bg-neutral-fg-dark
     backgroundImage:
