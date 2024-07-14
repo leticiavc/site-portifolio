@@ -322,7 +322,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: What our customers say about us
+    subtitle: Direto do Linkedin
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
