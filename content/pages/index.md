@@ -236,7 +236,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/top-view-desk-concept-with-copy-space (1).jpg
+      url: >-
+        /images/camera-power-bank-cactus-plant-diary-tea-cup-keyboard-white-desk.jpg
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
