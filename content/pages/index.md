@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: UniFECAF
-        subtitle: Numbers Done
+        subtitle: 2023-2025
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
