@@ -179,7 +179,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Letícia Vieira Caçador
       color: text-dark
       styles:
         self:
