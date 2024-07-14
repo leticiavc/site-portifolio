@@ -236,8 +236,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: >-
-        /images/mesa-escritorio-oficina-blanca-muchas-cosas-ella-vista-superior-espacio-copia_39131-154.avif
+      url: /images/images (1).jfif
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
