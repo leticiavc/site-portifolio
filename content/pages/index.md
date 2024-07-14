@@ -216,8 +216,7 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: >-
-        /images/fundo-abstrato-moderno-com-gradiente-geometrico-branco-e-cinza_120819-454.avif
+      url: /images/1555348-cinza-branco-geometrico-abstrato-fundo-vetor.jpg
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
