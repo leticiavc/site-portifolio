@@ -264,7 +264,7 @@ sections:
     title:
       type: TitleBlock
       text: Projetos/Cases de estudos
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
