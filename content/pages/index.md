@@ -177,7 +177,7 @@ sections:
     title:
       type: TitleBlock
       text: Habilidades
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
