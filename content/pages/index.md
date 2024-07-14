@@ -245,6 +245,9 @@ sections:
       type: TitleBlock
       text: Projetos/Cases de estudos
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: CarouselSection
     title:
       type: TitleBlock
