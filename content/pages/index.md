@@ -242,14 +242,6 @@ sections:
       styles:
         self:
           borderRadius: medium
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/Novo Projeto (17).png
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
