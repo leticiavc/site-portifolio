@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Bem-Vindo ao Meu Porfilogio
+      text: Bem-Vindo ao Meu portfólio
       color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
