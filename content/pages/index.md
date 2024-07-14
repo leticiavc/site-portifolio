@@ -176,7 +176,7 @@ sections:
       - url: /images/Novo Projeto (3).png
         altText: After Effects logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/Novo Projeto (4).png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
