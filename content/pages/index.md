@@ -112,7 +112,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/Novo Projeto (8).png
+          url: /images/Novo Projeto (9).png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
