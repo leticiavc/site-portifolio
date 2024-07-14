@@ -378,13 +378,7 @@ sections:
           melhor maneira. As suas entregas são rápidas e feitas com muita
           eficiência."
         tagline: Em 14 de setembro de 2023
-        subtitle: >-
-          Trabalho com a Leticia a cerca de 3 anos e ela demonstrou ser uma
-          excelente profissional. Extremamente talentosa e ágil na criação e
-          desenvolvimento de todo tipo de material, tanto online como impresso.
-          Além de ser dedicada, criativa e interessada em atender a área da
-          melhor maneira. As suas entregas são rápidas e feitas com muita
-          eficiência.
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
