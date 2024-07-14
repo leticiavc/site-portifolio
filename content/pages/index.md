@@ -236,7 +236,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/1555348-cinza-branco-geometrico-abstrato-fundo-vetor.jpg
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
