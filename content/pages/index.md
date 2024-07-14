@@ -241,6 +241,10 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: CarouselSection
     title:
       type: TitleBlock
