@@ -167,7 +167,7 @@ sections:
       - url: /images/Novo Projeto (6).png
         altText: Blender logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Novo Projeto (5).png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
