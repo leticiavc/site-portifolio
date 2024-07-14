@@ -177,7 +177,7 @@ sections:
         self:
           textAlign: center
   - title:
-      text: Grow your business 10x faster
+      text: Letícia Vieira Caçador
       color: text-dark
       styles:
         self:
