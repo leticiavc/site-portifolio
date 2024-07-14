@@ -343,8 +343,9 @@ sections:
     subtitle: Direto do Linkedin
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “A Letícia é uma excelente profissional. Sempre dedicada em tudo que
+          faz. Muito criativa, e sempre disposta a fazer o seu melhor. Ágil,
+          dedicada e eficiênte nas entregas.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
