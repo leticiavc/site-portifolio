@@ -174,7 +174,7 @@ sections:
         altText: Photoshop logo
         type: ImageBlock
       - url: /images/Novo Projeto (3).png
-        altText: Contentful logo
+        altText: After Effects logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
