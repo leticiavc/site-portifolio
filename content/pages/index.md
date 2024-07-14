@@ -50,7 +50,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Concluídas e Cursando
     items:
       - type: FeaturedItem
         title: UniFECAF
