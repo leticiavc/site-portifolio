@@ -243,7 +243,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Projetos
+      text: Projetos/Cases de estudos
       color: text-dark
   - type: CarouselSection
     title:
