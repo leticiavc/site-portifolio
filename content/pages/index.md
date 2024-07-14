@@ -79,7 +79,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Centro Universitário Senac
+      - title: Universitário Senac
         subtitle: 2016-2019
         text: >
           Bacharelado em Design - Linha de fomação específica em **Design
