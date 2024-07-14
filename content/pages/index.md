@@ -212,6 +212,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        showIcon: true
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
